@@ -3,9 +3,14 @@
     padding: 0;
 }
 .header {
-    width: 100px;
+    width: 600px;
     margin: 100px auto;
+    background-color: #07a;
 }
 .box {
     margin: 0 auto;
+    text-align: center;
+}
+.row1 {
+    color: #fff;
 }
